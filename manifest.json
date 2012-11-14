@@ -1,8 +1,8 @@
 {
   "name": "alt",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "manifest_version": 2,
-  "description": "Chrome doesn't display alt text for images. If no title is present, set the title to the alt text so you get that nice tool tip.",
+  "description": "Make Chrome display alt text for images again!",
   "permissions": [
     "*://*/*"
   ],
