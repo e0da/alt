@@ -5,6 +5,7 @@ fs = require 'fs'
 
 dist_files = [
   'lib'
+  'images'
   'vendor'
   '_locales'
   'manifest.json'

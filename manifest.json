@@ -16,5 +16,10 @@
         "lib/alt.js"
       ]
     }
-  ]
+  ],
+  "icons": {
+    "48": "images/icon48.png",
+    "96": "images/icon96.png",
+    "128": "images/icon128.png"
+  }
 }
