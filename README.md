@@ -37,6 +37,6 @@ Copyright © 2012, Justin Force | Licensed under the MIT License
 
 jQuery copyright © 2012, John Resig | Dual licensed under the MIT or GPL Version 2 licenses.
 
-<!-- [Chrome Web Store]:https://chrome.google.com/webstore/detail/pofekaindcmmojfnfgbpklepkjfilcep -->
+[Chrome Web Store]:https://chrome.google.com/webstore/detail/alt2title/hgaoapmlflfdaefemmidddbgmgajoejh
 [CoffeeScript]:http://coffeescript.org
 [GitHub project]:https://github.com/justinforce/alt2title
