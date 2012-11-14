@@ -1,5 +1,5 @@
-alt2title
-=========
+alt
+===
 
 Google Chrome doesn't display image alt text in a tool tip. This extension
 fixes that by simply copying the alt text to the title attribute.
@@ -12,7 +12,7 @@ Download and install via the [Chrome Web Store].
 Implementation
 --------------
 
-alt2title is written in [CoffeeScript] and maintained at its [GitHub project].
+alt is written in [CoffeeScript] and maintained at its [GitHub project].
 
 Development Requirements
 ------------------------
@@ -37,6 +37,6 @@ Copyright © 2012, Justin Force | Licensed under the MIT License
 
 jQuery copyright © 2012, John Resig | Dual licensed under the MIT or GPL Version 2 licenses.
 
-[Chrome Web Store]:https://chrome.google.com/webstore/detail/alt2title/hgaoapmlflfdaefemmidddbgmgajoejh
+<!-- [Chrome Web Store]:https://chrome.google.com/webstore/detail/alt/hgaoapmlflfdaefemmidddbgmgajoejh -->
 [CoffeeScript]:http://coffeescript.org
-[GitHub project]:https://github.com/justinforce/alt2title
+[GitHub project]:https://github.com/justinforce/alt

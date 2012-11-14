@@ -16,7 +16,7 @@ version = ->
   JSON.parse(fs.readFileSync('manifest.json')).version
 
 zip_out = ->
-  "dist/alt2title-#{version()}.zip"
+  "dist/alt-#{version()}.zip"
 
 build = (watch=false) ->
   options = ['-w', '-c', '-o', 'lib', 'src']
