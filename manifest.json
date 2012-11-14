@@ -1,6 +1,6 @@
 {
   "name": "alt",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "manifest_version": 2,
   "description": "Make Chrome display alt text for images again!",
   "permissions": [
