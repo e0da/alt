@@ -33,11 +33,9 @@ Run `cake` for a list of tasks. These are the big ones.
 Copyright and License
 ---------------------
 
-Copyright © 2012, Justin Force
-Licensed under the MIT License
+Copyright © 2012, Justin Force | Licensed under the MIT License
 
-jQuery copyright © 2012, John Resig
-Dual licensed under the MIT or GPL Version 2 licenses.
+jQuery copyright © 2012, John Resig | Dual licensed under the MIT or GPL Version 2 licenses.
 
 <!-- [Chrome Web Store]:https://chrome.google.com/webstore/detail/pofekaindcmmojfnfgbpklepkjfilcep -->
 [CoffeeScript]:http://coffeescript.org
