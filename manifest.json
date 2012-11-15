@@ -6,13 +6,17 @@
   "permissions": [
     "*://*/*"
   ],
+  "background": {
+    "scripts": [
+      "vendor/ga.js"
+    ]
+  },
   "content_scripts": [
     {
       "matches": [
         "*://*/*"
       ],
       "js": [
-        "vendor/ga.js",
         "vendor/jquery.min.js",
         "lib/alt.js"
       ]
