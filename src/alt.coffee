@@ -1,4 +1,3 @@
 $('img').live 'mouseover', ->
   image = $(this)
-  return if image.attr('title')
-  image.attr 'title', image.attr('alt')
+  image.attr 'title', image.attr('alt') unless image.attr('title')
