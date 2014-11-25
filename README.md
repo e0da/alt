@@ -1,20 +1,20 @@
 alt
 ===
 
-Google Chrome doesn't display image alt text in a tool tip. This extension
-fixes that by simply copying the alt text to the title attribute. The title
-attribute is not overwritten if it's already set. [jQuery.live] is used so that
-all images—even those loaded dynamically—are updated.
+Google Chrome doesn't display image alt text in a tool tip. This extension fixes
+that by simply copying the alt text to the title attribute. The title attribute
+is not overwritten if it's already set. [jQuery.on][] is used so that all
+images—even those loaded dynamically—are updated.
 
 Download and Install
 --------------------
 
-Download and install via the [Chrome Web Store].
+Download and install via the [Chrome Web Store][].
 
 Implementation
 --------------
 
-alt is written in [CoffeeScript] and maintained at its [GitHub project].
+alt is written in [CoffeeScript][] and maintained at its [GitHub project][].
 
 Development Requirements
 ------------------------
@@ -36,11 +36,9 @@ Run `cake` for a list of tasks. These are the big ones.
 Copyright and License
 ---------------------
 
-Copyright © 2012, Justin Force | Licensed under the MIT License
-
-jQuery copyright © 2012, John Resig | Dual licensed under the MIT or GPL Version 2 licenses.
+Copyright © 2012-2014, Justin Force | Licensed under the MIT License
 
 [Chrome Web Store]:https://chrome.google.com/webstore/detail/alt/hgaoapmlflfdaefemmidddbgmgajoejh
 [CoffeeScript]:http://coffeescript.org
 [GitHub project]:https://github.com/justinforce/alt
-[jQuery.live]:http://api.jquery.com/live/
+[jQuery.on]:http://api.jquery.com/on/
